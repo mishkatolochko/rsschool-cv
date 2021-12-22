@@ -33,3 +33,7 @@ return a * b
 * **University:** Volgograd State Technical University, majoring engineer
 * **Сourses:**
     + [HTML for JavaScript Developers](https://www.itgid.info/)
+
+## Languages
+
+* **English** - A1
