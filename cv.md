@@ -22,10 +22,14 @@ I'm 26 and I work as a ship builder. Now I already understand that I will not wo
    * HTML5, CSS3
    * GitHub
    * VS Code
-   
+
 ## Code Examples
 ```
 function multiply (a, b) {
 return a * b
 }
 ```
+## Education
+* **University:** Volgograd State Technical University, majoring engineer
+* **Сourses:**
+    + [HTML for JavaScript Developers](https://www.itgid.info/)
